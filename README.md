@@ -1,2 +1,2 @@
-# htmlcss
-HTML, CSS and JavaScript Coursera
+# Site
+Practice page for html css
